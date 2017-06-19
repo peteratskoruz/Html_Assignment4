@@ -1,0 +1,24 @@
+body{
+    margin: 0;padding: 0;
+}
+
+a{text-decoration: none;}
+
+.container{width: 1120px;margin: 0 auto;padding: 15px 15px;}
+
+.assign{float: left;width: 100%;}
+
+.assign h1{text-align: center; margin-bottom: 50px;}
+
+.assign ul{list-style: none;padding: 0;}
+
+.assign aside{float: right;width: 40%;height:100%;background-color: #ccc;}
+
+.assign ul li{padding: 10px 10px;cursor: pointer;font-size: 18px;}
+
+.assign section{float: left;width: 55%;}
+
+.clear{clear: both;}
+
+figure{margin: 0;}
+
